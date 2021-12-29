@@ -1,0 +1,14 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+body{
+    width: 1024px;
+    background-color: black;
+    text-align: center;
+}
+
+h1, p{
+    color: blanchedalmond;
+}
